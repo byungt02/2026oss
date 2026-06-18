@@ -16,7 +16,8 @@ oss 기말 프로젝트
 
 3. #include <stdio.h> 오류 발생<img width="923" height="346" alt="image" src="https://github.com/user-attachments/assets/0857c949-3293-43d5-b9b9-2ce60470bc5a" />
 
-4. Calc.sln이 아닌, cpp파일을 직접 열어 수정
+4. Calc.sln이 아닌, cpp파일을 직접 열어 수정<img width="753" height="285" alt="image" src="https://github.com/user-attachments/assets/c112642b-7559-45a7-8c15-fdf089b741cc" />
+
 5. Dev/a merge 중 충돌 발생<img width="1155" height="250" alt="image" src="https://github.com/user-attachments/assets/d648efb4-f277-4aeb-bf71-e5985708f0fe" />
 
 6. calc.cpp 수정 후 add와 commit. merge 성공<img width="1002" height="167" alt="image" src="https://github.com/user-attachments/assets/c70b4eea-c837-4e55-aaea-e73b8d2d2ed6" />
