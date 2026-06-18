@@ -1,4 +1,4 @@
-<img width="1155" height="250" alt="image" src="https://github.com/user-attachments/assets/e1d54d5b-0dd5-49c4-8b77-2ab1d6c1dffc" />#calc <hr>
+#calc <hr>
 oss 기말 프로젝트
 <hr>
 저장소 위치 : https://github.com/byungt02/2026oss
