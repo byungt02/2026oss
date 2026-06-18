@@ -11,7 +11,7 @@ oss 기말 프로젝트
 
 김지후(팀원 - 202507046) / dev/b 브랜치 수정, git flow 캡쳐
 
-최태영(팀원 - 202317061) / dev/c 브랜치 수정
+최태영(팀원 - 202317061) / dev/c 브랜치 수정, 결과창 캡쳐
 <hr>
 1. 브랜치가 식별되지 않는 문제 발생
 <img width="1188" height="366" alt="image" src="https://github.com/user-attachments/assets/fe908957-bf55-4547-b3e6-be6612a29d82" />
