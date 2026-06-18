@@ -35,9 +35,9 @@ oss 기말 프로젝트
 10. calc.cpp 수정 후 add와 commit. merge 성공<img width="989" height="175" alt="image" src="https://github.com/user-attachments/assets/801944a3-af10-4b08-8647-7d157a0827da" />
 
 <hr>
+
 git flow : 결과화면
-<hr>
 <img width="462" height="537" alt="12" src="https://github.com/user-attachments/assets/2bdfc135-6419-4a5a-8815-247569a6c3a1" />
 
-프로그램 실행 결과 화면
 <hr>
+프로그램 실행 결과 화면
