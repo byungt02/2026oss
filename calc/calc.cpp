@@ -2,6 +2,7 @@
 //
 
 #include <iostream>
+#include <stdio.h>
 #include "add.h"
 #include "dive.h"
 #include "mod.h"
@@ -19,6 +20,12 @@ int main()
 	{
 		std::cout << "첫번째 수를 입력하세요 : ";
 		std::cin >> x;
+
+		if (-999 == x)
+		{
+			printf("프로그램을 종료합니다.\n");
+			break;
+		}
 		std::cout << "두번째 수를 입력하세요 : ";
 		std::cin >> y;
 
