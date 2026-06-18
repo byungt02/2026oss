@@ -9,6 +9,8 @@
 #include "mul.h"
 #include "sub.h"
 
+#include <stdlib.h>
+#include <time.h>
 
 int main()
 {
@@ -20,7 +22,6 @@ int main()
 	{
 		std::cout << "첫번째 수를 입력하세요 : ";
 		std::cin >> x;
-
 
 		if (-999 == x)
 		{
