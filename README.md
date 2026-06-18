@@ -38,7 +38,11 @@ oss 기말 프로젝트
 
 git flow : 결과화면
 
-<img width="462" height="537" alt="12" src="https://github.com/user-attachments/assets/2bdfc135-6419-4a5a-8815-247569a6c3a1" />
+<img width="458" height="680" alt="image" src="https://github.com/user-attachments/assets/7bb396e3-70ca-4b26-8dd1-8743868115aa" />
+
 
 <hr>
 프로그램 실행 결과 화면
+
+<img width="461" height="81" alt="image" src="https://github.com/user-attachments/assets/16cc40eb-890b-4b33-a93e-1c66f93ee1ce" />
+
