@@ -28,7 +28,7 @@ oss 기말 프로젝트
 
 9. Dev/c merge 중 충돌 발생<img width="1147" height="247" alt="image" src="https://github.com/user-attachments/assets/a564c1ac-4c8c-49cb-a3cb-ba6af20b491a" />
 
-10. calc.cpp 수정 후 add와 commit. merge 성공<img width="1567" height="486" alt="image" src="https://github.com/user-attachments/assets/eac5836e-32a1-4a41-abb4-23bc4cccb753" />
+10. calc.cpp 수정 후 add와 commit. merge 성공<img width="989" height="175" alt="image" src="https://github.com/user-attachments/assets/801944a3-af10-4b08-8647-7d157a0827da" />
 
 <hr>
 git flow : 결과화면
