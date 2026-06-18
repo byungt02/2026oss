@@ -21,6 +21,7 @@ int main()
 		std::cout << "첫번째 수를 입력하세요 : ";
 		std::cin >> x;
 
+
 		if (-999 == x)
 		{
 			printf("프로그램을 종료합니다.\n");
@@ -33,4 +34,6 @@ int main()
 		printf("add[ %d ] sub[ %d ] mul[ %d ] dive[ %d ] mod[ %d ]\n",
 			add(x, y), sub(x, y), mul(x, y), dive(x, y), mod(x, y));
 	}
+
+
 }
