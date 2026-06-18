@@ -42,7 +42,9 @@ git flow : 결과화면
 
 
 <hr>
+
 프로그램 실행 결과 화면
+
 
 <img width="461" height="81" alt="image" src="https://github.com/user-attachments/assets/16cc40eb-890b-4b33-a93e-1c66f93ee1ce" />
 
