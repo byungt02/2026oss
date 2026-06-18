@@ -10,9 +10,13 @@ oss 기말 프로젝트
 최태영(팀원 - 202317061) / dev/c 브랜치 수정
 <hr>
 1. 브랜치가 식별되지 않는 문제 발생
+
 2. Git switch로 브랜치를 찾은 다음, Push하여 해결
+
 3. #include <stdio.h> 오류 발생
+![스크린샷1](3.png)
 4. Calc.sln이 아닌, cpp파일을 직접 열어 수정
+![스크린샷1](4.png)
 5. Dev/a merge 중 충돌 발생
 6. calc.cpp 수정 후 add와 commit. merge 성공
 7. Dev/b merge 중 충돌 발생
